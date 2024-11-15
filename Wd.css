@@ -1,0 +1,17 @@
+h1{
+    font-family: cursive;
+    background-color: brown;
+}
+
+table
+td,
+th,
+tr{
+    border: 10px dotted blue;
+    border-collapse: collapse
+}
+
+table{
+    width: 50px;
+    margin: auto;
+}
